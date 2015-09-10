@@ -1,2 +1,3 @@
-# XmppExperiments
-Playground for messing around with XMPP code
+# XmppSandobx
+
+Sandbox for XMPP projects and experiments.  
